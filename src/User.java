@@ -5,6 +5,6 @@ public class User {
     public String address;
     public String phone;
 
-//// im not using Thais , This is terrible
+//// im not using This , This is terrible
     }
 
